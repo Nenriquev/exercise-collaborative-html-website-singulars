@@ -2,6 +2,12 @@ body{
     background: #BDBDBD;
 }
 
+
+.tagline-img {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+
 .container-fluid{
     padding: 0;
 }
@@ -21,4 +27,5 @@ body{
 
 .project-name {
     color: #4478b0;
+
 }
