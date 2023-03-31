@@ -9,3 +9,7 @@ body{
 .form-control {
     width: 75%;
 }
+
+.project-name {
+    color: #4478b0;
+}
